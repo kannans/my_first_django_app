@@ -37,3 +37,4 @@ python manage.py runserver
 ```
 
 cheers!!
+<img src="https://github.com/kannans/my_first_django_app/blob/master/server.png">
